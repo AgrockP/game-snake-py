@@ -4,6 +4,7 @@ Welcome to snakes
 author = agastya padhy
 
 follow me on scratch = https://scratch.mit.edu/users/agiee_code/
+In GitHub also! = https://github.com/agastya-p
 
 INSTRUCTIONS
 ↓ ↓ ↓ ↓ ↓ ↓ ↓
