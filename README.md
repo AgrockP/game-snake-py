@@ -1,4 +1,4 @@
-hello! https://forthebadge.com/images/badges/made-with-python.svg
+hello! 
 Welcome to snakes
 
 author = agastya padhy
