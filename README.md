@@ -16,7 +16,7 @@ HOW TO OPEN?
 
 1. open up the folder
 
-2. open up the snake.exe file (make it yourself!😎)/ go to your PYTHON IDE or text editor that support python. in your IDE/text editor open up the SNAKES folder and run it.😀
+2. open up the snake.exe file (make it yourself!😎)/ go to your PYTHON IDE or text editor that supports python. in your IDE/text editor open up the SNAKES folder and run it.😀
 
 3. you are done👍
 
