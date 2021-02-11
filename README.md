@@ -34,7 +34,7 @@ HOW TO PLAY?
 
 PRO TIPS 😎 :-
 
-A. NEVER GO BACK IMMEDIATELY WHEN THE SNAKE GET LONGER
+A. NEVER GO BACK IMMEDIATELY WHEN THE SNAKE GETS LONGER
             a. FIRST TAKE 1 STEP DOWN (depending on your position) THEN TAKE YOUR RIGHT/LEFT/DOWN/UP
             b. reacting "***DOWN (depending on position)***":- 
                             a. when you are taking left/right IMMEDIATELY in (long) take down/up then take.
